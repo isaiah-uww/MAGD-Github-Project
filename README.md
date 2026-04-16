@@ -9,3 +9,6 @@ A simple repository containing class assignments for media arts &amp; game desig
 
 ## Lab #3 
 > This lab introduces mouse position tracking alongside basic mathmatical functions P5JS offers, such as `pow()`, `abs()`, `sqrt()`, `dist()`, and `radians()`
+
+### Website
+[index](./website/index.html)
